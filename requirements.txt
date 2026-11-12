@@ -1,0 +1,5 @@
+numpy
+scipy
+opencv-python
+kociemba
+torch        # only needed for the ML solver (solver_ml.py)
